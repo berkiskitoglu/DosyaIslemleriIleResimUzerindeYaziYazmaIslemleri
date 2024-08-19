@@ -1,0 +1,10 @@
+C:\Users\iskit\Desktop\Udemy_Project\Resim_Test\Resim_Test\bin\Debug\Resim_Test.exe.config
+C:\Users\iskit\Desktop\Udemy_Project\Resim_Test\Resim_Test\bin\Debug\Resim_Test.exe
+C:\Users\iskit\Desktop\Udemy_Project\Resim_Test\Resim_Test\bin\Debug\Resim_Test.pdb
+C:\Users\iskit\Desktop\Udemy_Project\Resim_Test\Resim_Test\obj\Debug\Resim_Test.csproj.AssemblyReference.cache
+C:\Users\iskit\Desktop\Udemy_Project\Resim_Test\Resim_Test\obj\Debug\Resim_Test.Form1.resources
+C:\Users\iskit\Desktop\Udemy_Project\Resim_Test\Resim_Test\obj\Debug\Resim_Test.Properties.Resources.resources
+C:\Users\iskit\Desktop\Udemy_Project\Resim_Test\Resim_Test\obj\Debug\Resim_Test.csproj.GenerateResource.cache
+C:\Users\iskit\Desktop\Udemy_Project\Resim_Test\Resim_Test\obj\Debug\Resim_Test.csproj.CoreCompileInputs.cache
+C:\Users\iskit\Desktop\Udemy_Project\Resim_Test\Resim_Test\obj\Debug\Resim_Test.exe
+C:\Users\iskit\Desktop\Udemy_Project\Resim_Test\Resim_Test\obj\Debug\Resim_Test.pdb
